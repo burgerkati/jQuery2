@@ -17,6 +17,8 @@ Afficher ou masquer la div texte au clic des liens fournis
 ### exercice_4
 Au clic sur un bouton de couleur, modifier la couleur du texte de la div
 ### exercice_5
-Quand un champ a le focus, définir sa bordure à "1px solid green". Quand le champ perd le focus, définir la bordure à "1px solid red"
+Définir la bordure du champ à "1px solid green" quand un champ a le focus
+Définir la bordure à "1px solid red" quand le champ perd le focus
 ### exercice_6
-Au passage de la souris sur un bouton de couleur, colorer le texte. Le texte doit redevenir noir quand la souris quitte le bouton
+Changer la couleur du texte au passage de la souris sur un bouton
+Le texte doit repasse au noir quand la souris quitte le bouton
